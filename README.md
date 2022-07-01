@@ -1,4 +1,10 @@
-### Hi there 👋
+# Tobías Vallejos 👋
+
+### 17 Años 😄
+### Estudiante de la secundaria ORT Almagro 📖
+### Cofundador de Jungle Chess (Front End Web Developer) 🐭
+### Hincha del Club Atlético Boca Juniors 💙💛💙
+
 
 <!--
 **TobiasVallejos05/TobiasVallejos05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
