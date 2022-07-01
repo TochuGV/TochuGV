@@ -1,9 +1,9 @@
 # Tobías Vallejos 👋
 
-### 17 Años 😄
-### Estudiante de Informática de la secundaria ORT Almagro 📖💻
-### Cofundador de Jungle Chess (Front End Web Developer) 🐭
-### Hincha del Club Atlético Boca Juniors 💙💛💙
+#### 17 Años 😄
+#### Estudiante de Informática de la secundaria ORT Almagro 📖💻
+#### Cofundador de Jungle Chess (Front End Web Developer) 🐭
+#### Hincha del Club Atlético Boca Juniors 💙💛💙
 
 
 <!--
