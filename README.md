@@ -3,7 +3,7 @@
 #### 17 Años 😄
 #### Egresado con honores de la secundaria ORT Almagro con especialización en diseño y desarrollo de aplicaciones web y móviles 📖💻
 #### Desarollador de Software en Yoizen
-#### Cofundador de Jungle Chess (Frontend Web Developer) (En progreso) 🐭
+#### Cofundador de Jungle Chess (En progreso) 🐭
 #### Hincha del Club Atlético Boca Juniors 💙💛💙
 
 
