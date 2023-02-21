@@ -1,10 +1,18 @@
 # Tobías Vallejos 👋
 
-#### 17 Años 😄
-#### Egresado con honores de la secundaria ORT Almagro con especialización en diseño y desarrollo de aplicaciones web y móviles 📖💻
-#### Desarollador de Software en Yoizen
-#### Cofundador de Jungle Chess (En progreso) 🐭
-#### Hincha del Club Atlético Boca Juniors 💙💛💙
+- 17 Años 😄
+- Egresado con honores de la **secundaria ORT Almagro** 📖
+  - Especializado en **diseño y desarrollo** de **aplicaciones web y móviles** 💻
+- **Desarollador de Software** en **Yoizen** 🖥
+- Fundador de Jungle Chess (En progreso) 🐭
+
+* * *
+
+- 17 Years Old 😄
+- Graduated with honors from **ORT Almagro High School** 📖
+  - Specialized in **design and development** of **web and mobile applications** 💻
+- **Software Developer** at **Yoizen** 🖥
+- **Jungle Chess** Founder (In progress) 🐭
 
 
 <!--
