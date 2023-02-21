@@ -4,7 +4,7 @@
 - Egresado con honores de la **secundaria ORT Almagro** 📖
   - Especializado en **diseño y desarrollo** de **aplicaciones web y móviles** 💻
 - **Desarollador de Software** en **Yoizen** 🖥
-- Fundador de Jungle Chess (En progreso) 🐭
+- Fundador de **Jungle Chess** (En progreso) 🐭
 
 * * *
 
