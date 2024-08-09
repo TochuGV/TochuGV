@@ -1,17 +1,17 @@
 # Tobías Vallejos 👋
 
-- 18 Años 😄
+- 19 Años 😄
 <!-- - Egresado con honores de la **secundaria ORT Almagro** 📖
   - Especializado en **diseño y desarrollo** de **aplicaciones web y móviles** 💻 -->
-- **Desarrollador Full Stack** en **Yoizen** 🖥
+<!-- - **Desarrollador Full Stack** en **Yoizen** 🖥 -->
 <!-- - Fundador de **Jungle Chess** (En progreso) 🐭 -->
 
 * * *
 
-- 18 Years Old 😄
+- 19 Years Old 😄
 <!-- - Graduated with honors from **ORT Almagro High School** 📖
   - Specialized in **design and development** of **web and mobile applications** 💻 -->
-- **Full Stack Developer** at **Yoizen** 🖥
+<!-- - **Full Stack Developer** at **Yoizen** 🖥 -->
 <!-- - **Jungle Chess** Founder (In progress) 🐭 -->
 
 
