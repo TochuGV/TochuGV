@@ -62,9 +62,9 @@ I am a curious, responsible, and team-oriented person, with a strong willingness
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=TochuGV&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TochuGV&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TochuGV&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TochuGV&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TochuGV&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
 
 <!-- * * *
 <!-- - Egresado con honores de la **secundaria ORT Almagro** 📖
