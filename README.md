@@ -101,5 +101,3 @@ I am a curious, responsible, and team-oriented person, with a strong willingness
 [![](https://visitcount.itsvg.in/api?id=TochuGV&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- -->
