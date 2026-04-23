@@ -83,9 +83,6 @@ Full Stack Developer oriented toward structured systems design and building resi
 
 ## 📊 GitHub Stats
 
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TochuGV&theme=github_dark_dimmed&hide_title=true&include_all_commits=true&count_private=false&layout=donut-vertical" width="38.45%" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=TochuGV&theme=github-dark-dimmed&date_format=j%2Fn%5B%2FY%5D" width="57%" />
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TochuGV&theme=github_dark_dimmed&hide_title=true&include_all_commits=true&count_private=false&show_icons=true" width="57%" />
-</div>
+<p align="center">
+  <img src="https://github-stats-api-vqom.vercel.app/api/stats" width="100%" />
+</p>
