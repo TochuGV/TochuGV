@@ -1,5 +1,6 @@
-## 💫 About Me 
-Full Stack Developer oriented toward structured systems design and building resilient APIs. I integrate solutions from the server core to the user interface, prioritizing architectural clarity and consistency in system behavior within production environments.
+## 💫 About Me
+
+Full Stack Developer with 2+ years of professional experience, specialized in Node.js, TypeScript, and React. Focused on building complete products with real impact on users and business processes, prioritizing architectural decisions such as decoupling, resilience, and consistency.
 
 ## 🏗️ Tech Stack
 
