@@ -24,12 +24,24 @@ Full Stack Developer with 2+ years of professional experience, specialized in No
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="50" alt="Swagger" title="Swagger" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="Figma" title="Figma" />
 
-## 🌐 Connect with me
+## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tobías-vallejos-3590bb253)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiasvallejos05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TochuGV)
+<!--
+<p align="left">
+  <a href="https://www.linkedin.com/in/tobiasvallejos/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Tobías Vallejos" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tobiasvallejos05@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="tobiasvallejos05@gmail.com" height="50" />
+  </a>
+</p>
+-->
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tobiasvallejos/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tobiasvallejos05@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="50" alt="Gmail" /></a>
+</p>
 
 ## 📊 GitHub Stats
 
